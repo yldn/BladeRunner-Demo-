@@ -34,7 +34,7 @@ The second being, cutting close objects to charge his power. The amount of charg
 4.build and test out & play.
 
 # CredictList
-all credicts listed in the [credicts file](BladeRunner/credicts.txt)
+all credicts listed in the [credicts file](/blob/master/credicts.txt)
 
 # License
 check the LICENSE file in add-license branch
