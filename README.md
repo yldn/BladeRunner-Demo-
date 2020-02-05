@@ -8,7 +8,7 @@ A semester project made on kinect camera with unity.
 
 ## Disclaimer
 
-This project is the extended version 2.0 of the [VERSION 1.0](https://github.com/hakrrr/Blade-Runner). TimeLine and more feature for the Demo is added to the project.[more](/add-license-1/LICENSE)
+This project is the extended version 2.0 of the [VERSION 1.0](https://github.com/hakrrr/Blade-Runner). TimeLine and more feature for the Demo is added to the project.[more](https://github.com/yldn/BladeRunner/blob/add-license-1/LICENSE)
 
 ## Gameplay
 Blade Runner is an Endless-Runner game with a slight twist. The player’s goal is to navigate through the city, while sustaining his gradually decreasing power-charge. In order to achieve that, he has multiple different tasks to fulfill. 
