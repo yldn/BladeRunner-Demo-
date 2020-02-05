@@ -37,10 +37,11 @@ The second being, cutting close objects to charge his power. The amount of charg
 ​	Slicing: Hold left mouse button & drag into one direction(PC)/ Drag hand across the screen (Kinect)
 
 ## Unity Setup
-1.clone the repositry
-2.open the project with Unity 2019.2.12f
-3.download the [texture package]() and import in Unity project
-4.build and test out & play.
+
+	1.clone the repositry
+	2.open the project with Unity 2019.2.12f
+	3.download the [texture package]() and import in Unity project
+	4.build and test out & play.
 
 # CredictList
 all credicts listed in the [credicts file](credicts.txt)
