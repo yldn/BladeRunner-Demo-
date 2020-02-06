@@ -5,10 +5,10 @@ A semester project made on kinect camera with unity.
 [link](https://youtu.be/ZJsznK6jfDY)
 
 ## Screenshots
-![](/slidesMaterials/DemoScene.png)
-![hype](slidesMaterials/Hyperscene.png)
-![running](/slidesMaterials/running.png)
-![gameplay](/slidesMaterials/Sample.gif) 
+![](docs/slidesMaterials/DemoScene.png)
+![hype](docs/slidesMaterials/Hyperscene.png)
+![running](docs/slidesMaterials/running.png)
+![gameplay](docs/slidesMaterials/Sample.gif) 
 ## Disclaimer
 
 This project is the extended version 2.0 of the [VERSION 1.0](https://github.com/hakrrr/Blade-Runner). TimeLine and more feature for the Demo is added to the project.
