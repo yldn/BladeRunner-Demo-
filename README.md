@@ -1,6 +1,8 @@
 # BladeRunner
 A semester project made on kinect camera with unity.
 
+# Trailer
+[link](https://youtu.be/ZJsznK6jfDY)
 
 ![](/slidesMaterials/DemoScene.png)
 ![hype](slidesMaterials/Hyperscene.png)
