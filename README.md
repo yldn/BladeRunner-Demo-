@@ -2,10 +2,10 @@
 A semester project made on kinect camera with unity.
 
 
-![gameplay](/slidesMaterials/Sample.gif) 
+![](/slidesMaterials/DemoScene.png)
 ![hype](slidesMaterials/Hyperscene.png)
 ![running](/slidesMaterials/running.png)
-
+![gameplay](/slidesMaterials/Sample.gif) 
 ## Disclaimer
 
 This project is the extended version 2.0 of the [VERSION 1.0](https://github.com/hakrrr/Blade-Runner). TimeLine and more feature for the Demo is added to the project.[LICENSE](https://github.com/yldn/BladeRunner/blob/add-license-1/LICENSE)
