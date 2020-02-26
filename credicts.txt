@@ -21,5 +21,8 @@ https://github.com/hugoscurti/mesh-cutter
 Cybercity 
 https://assetstore.unity.com/packages/3d/environments/sci-fi/cyber-city-120137
 
+Ch44 character mod 
+https://drive.google.com/file/d/1bHHkWR6eIhP_19sypqP1KDSycrqTL4tV/view?usp=sharing
+
 Thes assets in the project are bought in the asset store myself. Feel free to download.
 The seperation of the work in done later because the group member doesn't want to share the the code, so the work from his part is completely deleted from this repository.Here's the story:  Since we have planned to collaborate the work together and after the project is finished the group member doesn't want to share his code so I decided the seperate the work from the members, it might be a great cost when i rewind the work based on the existing repository so I deleted the all the part that are restricted. If and tort resulted please contact me, the content will be adjusted after taking consideration.
