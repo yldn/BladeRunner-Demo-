@@ -1,5 +1,5 @@
 # BladeRunner
-A semester project made on kinect camera with unity.
+This is a Demo project of the game [Blade-Runner](https://github.com/hakrrr/Blade-Runner)
 
 ## Trailer
 [link](https://youtu.be/ZJsznK6jfDY)
@@ -9,9 +9,6 @@ A semester project made on kinect camera with unity.
 ![hype](slidesMaterials/Hyperscene.png)
 ![running](/slidesMaterials/running.png)
 ![gameplay](/slidesMaterials/Sample.gif) 
-## Disclaimer
-
-This project is the extended version 2.0 of the [VERSION 1.0](https://github.com/hakrrr/Blade-Runner). TimeLine and more feature for the Demo is added to the project.
 
 ## Gameplay
 
@@ -21,13 +18,12 @@ For the demo scene,The animated Timeline object is shown in the scene,and click 
 
 ## Controls
 
-check [VERSION 1.0](https://github.com/hakrrr/Blade-Runner)
+check [Blade-Runner](https://github.com/hakrrr/Blade-Runner)
 
 ## Unity Setup
-
 	1.clone the repositry
 	2.open the project with Unity 2019.2.12f
-	3.download the [texture package]() and import in Unity project
+	3.download the texture package and import in Unity project
 	4.build and test out & play.
 
 # CredictList
